@@ -48,7 +48,11 @@ The purpose of this dashboard is to monitor manufacturing performance by analyzi
 .Production dip in Q3 highlights potential operational issues
 .Enables faster and more accurate decision-making
 
-# Snapshot of dashboard
+# Conclusion
+.This dashboard gives a clear view of production and rejection performance. It helps identify problem areas, improve quality, and       support quick data-driven decisions.
+
+# snapshot of Dashboard
+
 
 
 
