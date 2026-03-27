@@ -52,6 +52,7 @@ The purpose of this dashboard is to monitor manufacturing performance by analyzi
 .This dashboard gives a clear view of production and rejection performance. It helps identify problem areas, improve quality, and       support quick data-driven decisions.
 
 # snapshot of Dashboard
+https://github.com/shoyeb-tech/Manufacturing-Analytics-Dashboard/blob/main/Manufacturing%20analytics.png
 
 
 
